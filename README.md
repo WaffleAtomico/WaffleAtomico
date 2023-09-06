@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WaffleAtomico
 - 👀 I’m interested in Apps, cybersecurity, and desing
 - 🌱 I’m currently learning docker, c#, after that, i planing to study how to use flutter, android studio, more stuff about databases, etc.
-- 💞️ I’m looking to collaborate on nothing actually, im by my own studying
+- 💞️ I’m looking to collaborate on nothing actually, im by my own studying, but im open to do new things
 - 📫 How to reach me @skakievich on instagram
 
 <!---
